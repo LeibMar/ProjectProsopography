@@ -407,13 +407,7 @@ h4 {
          
      }
 
-     Tive um problema com a query desse container. 
-     Essa formatação quando ativada aparece tanto na tela grande quanto na pequena.
-     A formatação do bloco main parace ser ignorada.
-     Talvez  tenha a ver com o caso da função media query acima.
-     Ela consta como "max-width" por que com min-width a formatação de tela grande aparece 
-     na tela pequena e a da tela pequna na grande.
-     */
+ 
      
     .direito h3 {
         width: 100%;
@@ -460,9 +454,7 @@ h4 {
 #Nome_entrada {
     font-size: 1rem;
 } 
-Mesmo problema. Quando ativada, 
-esse bloco é ativado também para a tela grande no lugar do bloco original
-*/
+
 
 }
   
